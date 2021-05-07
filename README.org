@@ -1,4 +1,7 @@
 * Group Expense Manager
-Expenses and bill sharing web app using Flask.
+Keeping track of all the expenses is a burden for an individual, especially, whenever
+there is a group of people involved. For example, consider a group of flatmates where
+every person has to keep records of monthly expenses and have problems in settling the
+debts. It is very difficult, in a group, to remember “who owes whom how much”.
 
 To run the app, =python main.y=
